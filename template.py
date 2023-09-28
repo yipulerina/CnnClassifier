@@ -48,4 +48,3 @@ for filepath in list_of_files:
         logging.info(f"{filepath} already exists")
         
         
-#
